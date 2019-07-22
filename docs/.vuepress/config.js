@@ -11,7 +11,8 @@ module.exports = {
             { text: '首页', link: '/' },
             { text: '指南', link: '/views/basic/' },
             { text: '高级', link: '/views/advance/' },
-            { text: 'GitHub', link: 'https://github.com/pp-jifangli/project-tms-admin-doc.git' },
+            { text: '项目GitHub', link: 'https://github.com/pp-jifangli/project-tms-admin.git' },
+            { text: '文档GitHub', link: 'https://github.com/pp-jifangli/project-tms-admin-doc.git' },
         ],
         sidebar: {
             '/views/basic/': [
