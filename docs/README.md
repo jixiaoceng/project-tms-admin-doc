@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /favicon.ico
+heroImage: /hero.png
 actionText: Guide →
 actionLink: /views/basic/
 features:

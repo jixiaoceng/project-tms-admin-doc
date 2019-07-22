@@ -1,5 +1,5 @@
 module.exports = {
-    base: 'tmsAdminDoc',
+    base: '/tmsAdminDoc/',
     title: '教学管理系统',
     description: '教学管理系统公共组件文档',
     dest: 'tmsAdminDoc',
