@@ -20,7 +20,7 @@ module.exports = {
                 collapsable: false,
                 children: [
                     '',
-                    'emaoUI'
+                    'customUI'
                 ]
                 }
             ],
